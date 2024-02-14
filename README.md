@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1081979524167761972/1207341782266941560/MV5BNmNhYWQ5MDgtZDJjOC00MjI2LWFhMzktM2E2YWRmODU0YTU3XkEyXkFqcGdeQXVyMTAzNTI3NjUw.png?ex=65df4ba8&is=65ccd6a8&hm=fa2773223abdbaf1fcc434e9cdc37bfa687d78eec9bfbdd3aeb8dab86278440c&"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
