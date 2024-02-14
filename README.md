@@ -1,8 +1,8 @@
-<h2 align="center">Aoba 👋! Caio aqui, cê ta bão fi ?</h2>
+<h2 align="left">Aoba! 👋 Caio aqui, Cê tá bão fi ?</h2>
 
 ###
 
-<p align="center"> Hello World </p>
+<p align="left"> Sempre dando um jeito de desbugar as coisa, mai parece que as coisas bugam ainda mais kkkk. Entre um gole de códido e umas linhas de café, precisando de um help, é só chamar, a cada um bug resolvido mais 3 são criados e assim é a nossa vida kkkk </p>
 
 ###
 
