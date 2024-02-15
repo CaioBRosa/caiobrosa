@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Sempre dando um jeito de desbugar as coisa, mai parece que as coisas bugam ainda mais kkkk. Entre um gole de códido e umas linhas de café, precisando de um help, é só chamar, a cada um bug resolvido mais 3 são criados e assim é a nossa vida kkkk </p>
+<p align="left"> Sempre dando um jeito de desbugar as coisa, mai parece que as coisas bugam ainda mais kkkk. Entre um gole de códido e umas linhas de café, precisando de um help, é só chamar, a cada um bug resolvido mais 3 são criados e assim é a nossa vida 😀 </p>
 
 ###
 
